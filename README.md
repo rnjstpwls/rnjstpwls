@@ -1,18 +1,22 @@
-### Hi there 👋
+### SSAFY 4기 구미 1반 권세진
+
+> kwon_sejin@naver.com
 
 
-**rnjstpwls/rnjstpwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* TIL (Today I Learned)
+  * python(200721 ~ 200730)	***CLEAR***
+  * algorithm(200803 ~ ing)
+    * list (200803 ~ 200807) ***CLEAR***
+  * web(200810 ~ ing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+* SWEA(SW Expert Academy)
+  * D1(200801 ~ 200804) 	***CLEAR***
+  * D3(200803 ~ ing)
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rnjstpwls)](https://github.com/anuraghazra/github-readme-stats)
 
