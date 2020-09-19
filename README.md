@@ -7,9 +7,10 @@
 * TIL (Today I Learned)
   * python(200721 ~ 200730)	***CLEAR***
   * algorithm(200803 ~ ing)
-    * list (200803 ~ 200807) ***CLEAR***
-    * string (200824 ~ 200825) ***CLEAR***
-    * stack (200826 ~ ) 
+    * list ***CLEAR***
+    * string ***CLEAR***
+    * stack ***CLEAR***
+    * tree ***CLEAR***
   * web(200810 ~ 200813) ***CLEAR***
   * django (200814 ~ ing)
 
@@ -17,8 +18,9 @@
 
 * SWEA(SW Expert Academy)
   * D1(200801 ~ 200804) 	***CLEAR***
-  * D3(200803 ~ ing)
+  * D3(200803 ~ 200907) 	***CLEAR***
   * D4(200825 ~ ing)
+  * D5(200911 ~ ing)
 
 * coding-test algorithm (200813 ~ ing)
 
