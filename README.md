@@ -12,7 +12,7 @@
     * stack ***CLEAR***
     * tree ***CLEAR***
   * web(200810 ~ 200813) ***CLEAR***
-  * django (200814 ~ ing)
+  * django (200814 ~ 200929) ***CLEAR***
 
 
 
